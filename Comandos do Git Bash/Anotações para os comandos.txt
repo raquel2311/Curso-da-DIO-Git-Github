@@ -14,4 +14,4 @@
 - **cat** mostrar itens da pasta
 - **pnd** Mostrar caminhos anteriores completos
 - **SSH** Conexão encriptada entre duas entradas/chave
-- 
+- **git push origin main** Mandar os arquivos para a nuvem
