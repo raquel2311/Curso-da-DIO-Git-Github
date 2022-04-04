@@ -1,0 +1,17 @@
+# Comandos do Git Bash.
+
+## Alguns Comandos para ferramentas do Git.
+
+- **dir** Listar
+- **control + L** Limpar
+- **cd** Abrir Pasta Específica
+- **cd ..** Voltar ao nível anterior
+- **mkdir** Criar Pasta
+- **echo** Printar o que você quer
+- **del** Deletar
+- **rmdir** Deletar tudo
+- **sha1** Codificador/encripitação
+- **cat** mostrar itens da pasta
+- **pnd** Mostrar caminhos anteriores completos
+- **SSH** Conexão encriptada entre duas entradas/chave
+- 
